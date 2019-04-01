@@ -28,7 +28,7 @@ namespace Laba1
             Console.WriteLine($"Название товара {Price}");
         }
         
-        public void getInfo(string name, int quantity, double price)
+        public void inputInfo()
         {
             Console.WriteLine("Введите наименование товара");
             Name = Console.ReadLine();
@@ -37,6 +37,7 @@ namespace Laba1
             Console.WriteLine("Введите цену товара");
             Price = Convert.ToDouble(Console.ReadLine());
         }
+
 
 
     }
