@@ -1,0 +1,7 @@
+C:\praktika\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\praktika\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\praktika\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\praktika\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\praktika\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\praktika\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\praktika\Laba1\Laba1\obj\Debug\Laba1.pdb
